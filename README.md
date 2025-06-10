@@ -2,8 +2,8 @@
 
 A responsive and clean *HTML/CSS/JavaScript calculator* project created with a focus on simplicity, clarity, and usability. Designed and built by *Nagwa*.
 
-![screenshot * Html](1.png)](1.png)]
-![screenshot * CSS](2.png)](2.png)]
+[screenshot * Html](1.png)](1.png)
+[screenshot * CSS](2.png)](2.png)
 
 ---
 
