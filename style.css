@@ -1,0 +1,84 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+  background-color: #f0f0f0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.wrapper {
+  background-color: #222;
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.3);
+  width: 320px;
+}
+
+.screen {
+  background-color: white;
+  color: black;
+  font-size: 2.5rem;
+  padding: 15px;
+  text-align: right;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  min-height: 100px;
+  overflow-x: auto;
+}
+
+.calc-buttons {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.calc-button-row {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.calc-button,
+.calc-button-double {
+  flex: 1;
+  padding: 20px;
+  font-size: 1.2rem;
+  background-color: #333;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.calc-button:hover,
+.calc-button-double:hover {
+  background-color: #555454;
+}
+
+.calc-button-double {
+  flex: 2;
+  background-color: #ff4444;
+}
+
+.calc-button-double:hover {
+  background-color: #dd2222;
+}
+
+button:active {
+  transform: scale(0.97);
+}
+
+.calc-button:last-child {
+  background-color: #28a745;
+}
+
+.calc-button:last-child:hover {
+  background-color: #218838;
+}
