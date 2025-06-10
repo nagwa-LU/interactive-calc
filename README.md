@@ -26,7 +26,6 @@ A responsive and clean *HTML/CSS/JavaScript calculator* project created with a f
 
 ## 🚀 Live Demo
 
-🔗 [Click here to try it](## 🚀 Live Demo
 
 🔗 [Click here to try it](https://nagwa-lu.github.io/interactive-calc/
 
