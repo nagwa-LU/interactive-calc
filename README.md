@@ -1,6 +1,6 @@
 # 🧮 interactive Calculator
 
-A responsive and clean *HTML/CSS/JavaScript calculator* project created with a focus on simplicity, clarity, and usability. 
+A responsive and clean *HTML/CSS/JavaScript calculator* created with a focus on simplicity, clarity, and usability. 
 
 [![screenshot * Html](1.png)](1.png)
 [![screenshot * CSS](2.png)](2.png)
